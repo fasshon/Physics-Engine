@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\baldl\source\repos\Physics Engine\Physics Engine\main.cpp(117,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+glfw3.lib(monitor.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(monitor.obj)' or at 'C:\Users\baldl\source\repos\Physics Engine\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(null_monitor.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(null_monitor.obj)' or at 'C:\Users\baldl\source\repos\Physics Engine\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_joystick.obj)' or at 'C:\Users\baldl\source\repos\Physics Engine\x64\Debug\glfw3.pdb'; linking object as if no debug info
+  Physics Engine.vcxproj -> C:\Users\baldl\source\repos\Physics Engine\x64\Debug\Physics Engine.exe
